@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+Hello! I am melas, your PHP guy and new to GitHub
